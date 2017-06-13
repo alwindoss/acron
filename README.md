@@ -1,6 +1,7 @@
 # acron
 
 ### Acronym Store
+ [![CircleCI](https://circleci.com/gh/alwindoss/acron.svg?style=svg)](https://circleci.com/gh/alwindoss/acron)
 
 ## Install
  `go get -u github.com/alwindoss/acron`
